@@ -112,7 +112,7 @@ namespace FlexApi.Demo
                     "    \"card\": {\n" +
                     "      \"number\": \"" + number + "\"\n" +
                     "    }\n" +
-                    "  },\n" +
+                    "  }\n" +
                     "},\n" +
                     "\"context\": \"" + context + "\",\n" +
                     "\"index\": 0\n" +
